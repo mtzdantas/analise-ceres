@@ -26,12 +26,12 @@ pip install numpy pandas matplotlib
 ```
 
 ### 🎲 Download de Dados
-Baixe os conjuntos de dados manualmente pelos links na seção [📚 Fonte dos Dados](#-fonte-dos-dados) e salve-os na pasta correspondente.
+Baixe os conjuntos de dados manualmente pelos links na seção [📚 Fonte dos Dados](#-fonte-dos-dados) e salve-os na pasta <code>"data/raw/..."</code>.
 
-### ▶️ Executando
+### 🪄 Rodando o projeto
 - Abra o VS Code
 - Abra o diretório do projeto
-- Abra os notebook em scripts/
+- Abra os notebooks em <code>scripts/</code>
 - Execute as células sequencialmente
 
 ## 🎯 Objetivos da Análise
