@@ -9,6 +9,31 @@ Repositório criado para a disciplina **Projeto e Administração de Banco de Da
 - [Docentes](https://dados.ufrn.br/dataset/docentes)  
 - [Avaliação da Docência](https://dados.ufrn.br/dataset/avaliacoes-de-docencia)
 
+## 🧪 Executando a Análise Localmente
+
+Para executar este projeto localmente, siga os passos abaixo:
+
+### 🖥️ Ambiente Utilizado
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
+- **Extensão:** Jupyter Notebook
+- **Linguagem:** Python 3.x
+
+### 📦 Bibliotecas Necessárias
+Certifique-se de ter as seguintes bibliotecas instaladas:
+
+```bash
+pip install numpy pandas matplotlib
+```
+
+### 🎲 Download de Dados
+Baixe os conjuntos de dados manualmente pelos links na seção [📚 Fonte dos Dados](#-fonte-dos-dados) e salve-os na pasta correspondente.
+
+### ▶️ Executando
+- Abra o VS Code
+- Abra o diretório do projeto
+- Abra os notebook em scripts/
+- Execute as células sequencialmente
+
 ## 🎯 Objetivos da Análise
 
 - 📈 Evolução no número de alunos por curso e ano
